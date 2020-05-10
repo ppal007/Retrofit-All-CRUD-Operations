@@ -1,0 +1,2 @@
+rootProject.name='RetrofitCRUDOperation'
+include ':app'
